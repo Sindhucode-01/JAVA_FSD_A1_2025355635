@@ -1,3 +1,11 @@
+/*
+ * Name: Varada Divya Sindhu
+ * Roll Number: 2515010711
+ * Date: 08-08-2026
+ * Program: P02 — Arithmetic Operations
+ */
+
+
 import java.util.Scanner;
 
 public class P02_ArithmeticOps {
