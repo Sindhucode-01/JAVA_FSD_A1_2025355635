@@ -33,7 +33,7 @@ The website presents my academic and technical profile in a clean, modern, and r
 - Mobile-friendly navigation
 
 ## 📂 Project Structure
-
+```text
 portfolio/
 │
 ├── index.html
